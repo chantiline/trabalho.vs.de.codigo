@@ -2,7 +2,12 @@ Parabéns, pessoal!
 
 Vocês estão evoluindo muito rápido!
 
-Eu li, Carlos Gabriel Ribeiro
+Eu li, Carlos
 Julião passou por aqui 
+<<<<<<< HEAD
 Eu li, Matheus Henrique
 lido , beijinhos chanti ;)
+=======
+Eu li, Alessandro
+Eu li, Matheus Henrique
+>>>>>>> 4438e5546543bf482e02840b341bc29722b5883f
