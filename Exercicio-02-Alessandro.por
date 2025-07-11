@@ -1,0 +1,40 @@
+programa {
+  funcao inicio() {
+    //DECLARAÇÃO VARIÁVEIS
+    real peso, altura, resultado
+  
+    //PERGUNTA SOBRE USUÁRIO
+    escreva("-----------PARA CALCULAR O SEU IMC (ÍNDICE DE MASSA CORPORAL)-----------\n")
+    espacamento()
+    escreva("INFORME SUA ALTURA EM (CM): ")
+    leia(altura)
+    espacamento()
+    escreva("INFORME SEU PESO: ")
+    leia(peso)
+    espacamento()
+
+    //RESULTADO
+    altura = altura / 100
+    resultado = peso / (altura * altura)
+
+    escreva("\nSEU (IMC) É: ", resultado,"\n")
+    espacamento()
+    se(resultado < 18.5){
+      escreva("Você está abaixo do peso.")
+    } 
+    senao se(resultado > 18.5 e resultado < 24.9){
+      escreva("Seu peso é saudavél.")
+    }
+    senao se(resultado > 25 e resultado < 29.9){
+      escreva("Você está com sobrepeso.")
+    }
+    senao se(resultado > 30){
+      escreva("Você está obeso.")
+    }
+    espacamento()
+    }
+
+    funcao espacamento(){
+      escreva("\n---------------------------------------\n")
+    }
+  }
