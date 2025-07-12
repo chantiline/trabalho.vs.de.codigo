@@ -32,10 +32,21 @@ Com o tempo, passamos a escrever mensagens **mais claras e específicas**, como:
 - `Adiciona cálculo de média - Carlos Gabriel`
 - `Adiciona calculadora - Júlio`
 
-> Essas melhorias tornaram o repositório mais organizado e fácil de entender.
+Essas melhorias tornaram o repositório mais organizado e fácil de entender.
 
 ---
 
+## Histórico de commits :
+
+Abaixo está um print mostrando o histórico de commits feitos durante o trabalho:
+
+![Os commits de todo mundo](https://github.com/chantiline/trabalho.vs.de.codigo/blob/main/Imagem%20do%20WhatsApp%20de%202025-07-12%20%C3%A0(s)%2015.01.11_323798c2.jpg?raw=true)
+
+![Os commits de todo mundo](https://raw.githubusercontent.com/chantiline/trabalho.vs.de.codigo/95c27ecda749105823776378193e4f2c2b7b6da9/Imagem%20do%20WhatsApp%20de%202025-07-12%20%C3%A0(s)%2015.01.11_4d1050c1.jpg)
+
+![Os commits de todo mundo](https://raw.githubusercontent.com/chantiline/trabalho.vs.de.codigo/95c27ecda749105823776378193e4f2c2b7b6da9/Imagem%20do%20WhatsApp%20de%202025-07-12%20%C3%A0(s)%2015.01.12_1e3b326d.jpg)
+
+![Os commits de todo mundo](https://raw.githubusercontent.com/chantiline/trabalho.vs.de.codigo/95c27ecda749105823776378193e4f2c2b7b6da9/Imagem%20do%20WhatsApp%20de%202025-07-12%20%C3%A0(s)%2015.01.11_b1b8c765.jpg)
 
 
 
